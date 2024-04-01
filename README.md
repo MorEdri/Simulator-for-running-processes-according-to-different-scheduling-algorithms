@@ -13,11 +13,5 @@ arrivalTime4,computationTime4
 arrivalTimek,computationTimek
 
 Output:
-The output will consist of the average turnaround time (ATA) for every scheduling algorithm used:
-
-FCFS (First-Come, First-Served)
-LCFS (Last-Come, First-Served) (Non-Preemptive)
-LCFS (Last-Come, First-Served) (Preemptive)
-RR (Round Robin)
-SJF (Shortest Job First)
+The output will consist of the average turnaround time (ATA) for every scheduling algorithm used:FCFS (First-Come, First-Served),LCFS (Last-Come, First-Served) (Non-Preemptive),LCFS (Last-Come, First-Served) (Preemptive), RR (Round Robin) and SJF (Shortest Job First).
 
